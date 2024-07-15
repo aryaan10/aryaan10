@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryaan10&label=Profile%20views&color=0e75b6&style=flat" alt="aryaan10" /> </p>
 
-- 🌱 I’m currently learning **VAPT, Network Security, Threat Deection**
+- 🌱 I’m currently learning **VAPT, Network Security, Threat Detection**
 
 - 👯 I’m looking to collaborate on **Cybersecurity Projects**
 
