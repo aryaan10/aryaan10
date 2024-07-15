@@ -3,17 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryaan10&label=Profile%20views&color=0e75b6&style=flat" alt="aryaan10" /> </p>
 
-- 🌱 I’m currently learning **Cisco Networking, Network Security**
+- 🌱 I’m currently learning **VAPT, Network Security, Threat Deection**
 
 - 👯 I’m looking to collaborate on **Cybersecurity Projects**
 
 - 🤝 I’m looking for help with **Mentorship in the field of cybersecurity**
 
-- 💬 Ask me about **Cryptography, CTFs**
+- 💬 Ask me about **Cryptography, CTFs, VAPT, SIEM**
 
 - 📫 How to reach me **aapandhare_b21@it.vjti.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JuMpWx1lAelCRrJj1sLkfzP7K8681REN/view?usp=drive_link](https://drive.google.com/file/d/1JuMpWx1lAelCRrJj1sLkfzP7K8681REN/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
